@@ -1,3 +1,24 @@
 html {
   background: #2d2d2d;
+  font-family: Arial;
+}
+
+.navbar {
+    background: #181818;
+    margin: 0;
+    padding: 2px;
+}
+
+body {
+    margin: 0;
+}
+
+b {
+    font-size: 24px;
+}
+
+.potatoes {
+    width: 50%;
+    text-align: center;
+    margin: auto;
 }
